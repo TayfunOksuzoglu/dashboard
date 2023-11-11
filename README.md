@@ -4,7 +4,6 @@ This repository contains the source code for a responsive dashboard React app. T
 
 ## Table of Contents
 
--   [Installation](#installation)
 -   [Components](#components)
     -   [App](#app)
     -   [WebAnalytics](#webanalytics)
@@ -18,30 +17,6 @@ This repository contains the source code for a responsive dashboard React app. T
     -   [ChartItem](#chartitem)
     -   [CardItem](#carditem)
 
-## Installation
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/your-username/dashboard-react-app.git
-    ```
-
-2. **Change into the project directory:**
-
-    ```bash
-    cd dashboard-react-app
-    ```
-
-3. **Install dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-4. **Run the app:**
-    ```bash
-    npm start
-    ```
 
 ## Components
 
