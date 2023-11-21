@@ -1,6 +1,6 @@
 # Dashboard React App
 
-This repository contains the source code for a responsive dashboard React app. The app is made to display various components, including charts, tables, and cards, to provide a comprehensive overview of different metrics. I did this to practice using a modular component library.
+This repository contains the source code for a responsive dashboard React app. The app is made to display various components, including charts, tables, and cards, to provide a comprehensive overview of different metrics. 
 
 ## Table of Contents
 
